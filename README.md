@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=05F7EC&center=true&vCenter=true&width=1000&height=100&lines=Hi+there%2C+I'm+%C4%90%C3%B4ng+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=05F7EC&center=true&vCenter=true&width=1000&height=100&lines=Hi+there%2C+I'm+%C4%90%C3%B4ng+%F0%9F%91%8B)](https://google.com)
 <hr />
 
 
